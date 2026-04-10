@@ -39,4 +39,4 @@ eas build --platform android
 # For iOS
 eas build --platform ios
 ```
-# Notes_app
+
